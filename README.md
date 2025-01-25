@@ -6,7 +6,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also a Master's student in Piano at the Koninklijk Conservatorium Brussel.
 
-I'm working in the Machine Learning Group (MLG: http://mlg.ulb.ac.be/) at ULB and am affiliated with TRAIL (https://trail.ac). My interests are related to spatiotemporal series analysis, especially in the context of geophysical processes such as earthquakes, volcanoes eruptions, and tsunamis. I am working on a synthetic wave propagation simulations dataset called PyAWD (https://github.com/pascaltribel/pyawd). 
+I work in the Machine Learning Group (MLG: http://mlg.ulb.ac.be/) at ULB and am affiliated with TRAIL (https://trail.ac). My interests are related to spatiotemporal series analysis, especially in the context of geophysical processes such as earthquakes, volcanic eruptions, and tsunamis. I am developing a synthetic wave propagation simulations dataset called PyAWD (https://github.com/pascaltribel/pyawd). 
+
+Find more about me --> [My Webpage](https://pascaltribel.github.io)
 
 <!---
 pascaltribel/pascaltribel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
